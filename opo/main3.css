@@ -1,0 +1,20 @@
+h1{
+    font-size: 150px;
+    display: flex;
+    justify-content: center;
+  font-style:oblique
+}
+
+body{
+  
+    background-size: cover;
+
+    background-image: url("/frontend/opo/land-g7bd78d0dd_1920.jpg");
+ 
+}
+
+div{
+    display: flex;
+    justify-content: center;
+     float: left; width: 20%; 
+}
