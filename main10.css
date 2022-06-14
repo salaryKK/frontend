@@ -1,0 +1,87 @@
+.wrap {
+    position: relative;
+      padding: 0px 0px;
+      width: 260px;
+      height: 30px;
+      border: 0px solid;
+      border-radius: 30px;
+     
+      padding: 270px 30px;
+    background-color: rgb(197, 223, 233);
+    box-shadow: 1px 10px 30px 10px rgba(13, 99, 73, 0.706) ;
+    
+   
+    margin-left: 800px;
+}
+
+.login_form {
+    
+}
+
+h1{
+  
+    font-size: 25px;
+    position: relative;
+    margin-left: 90px;
+    margin-top:-240px;
+}
+.id{
+    width: 250px;
+    height: 40px;
+    border: 0px solid;
+    border-radius: 7px;
+   
+   
+}
+
+.password{
+    width: 250px;
+    height: 40px;
+    border: 0px solid;
+    border-radius: 7px;
+}
+
+p{
+    font-size: 12px;
+    position: relative;
+    margin-left: 160px;
+    margin-top: 10px;
+
+}
+label{
+    color: rgb(119, 119, 119);
+}
+
+#btn{
+    width: 250px;
+    height: 40px;
+    border: 0px solid;
+    border-radius: 18px;
+    background-color: red;
+    color: aliceblue;
+}
+.sp{
+    color: orangered;
+    font-size: 11px;
+}
+#bt{
+    width: 110px;
+    height: 45px;
+    border: 0px solid;
+    border-radius: 22px;
+    margin-left: 10px;
+    background-color:rgb(21, 21, 132) ;
+    color: antiquewhite;
+}
+#bt2{
+    width: 110px;
+    height: 45px;
+    border: 0px solid;
+    border-radius: 22px;
+    margin-left: 5px;
+    background-color:rgb(75, 135, 220) ;
+    color: antiquewhite;
+}
+body{
+    background-color: rgb(179, 199, 221);
+}
