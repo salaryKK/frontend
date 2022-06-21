@@ -1,0 +1,153 @@
+body{
+    font-family: 'Do Hyeon', sans-serif;
+    font-family: 'Nanum Pen Script', cursive;
+    font-family: 'Stylish', sans-serif;
+    font-family: 'Sunflower', sans-serif;
+}
+
+.p{
+    position: relative;
+   
+    width: 245px;
+    height: 30px;
+    border: 0px solid;
+    padding: 240px 20px;
+  bottom: -70px;
+  margin-left: 740px;
+  text-align: center;
+  
+  border-width: 7px;
+  border-color: rgb(0, 104, 184);
+}
+
+.p::after{
+    width: 100%;
+  height: 100%;
+  content: "";
+  background: url("양.jpg");
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  opacity: 0.5;
+}
+
+
+
+#bt1{
+    width:120px ;
+    height: 37px;
+    background-color: rgb(193, 206, 229);
+    color:rgb(49, 47, 47);
+    border: 0px solid;
+border-radius: 7px;
+margin-left: 15px;
+box-shadow: 1px 2px 10px 1px rgb(0, 0, 0) ;
+position: relative;
+left: 750px;
+bottom: 490px;
+opacity: 0.5;
+}
+
+#bt2{
+    width:120px ;
+    height: 37px;
+    background-color: rgb(23, 103, 216);
+    color:rgb(255, 255, 255);
+    border: 0px solid;
+border-radius: 7px;
+margin-left: 20px;
+margin-top: -10px;
+box-shadow: 1px 2px 1px 1px rgba(23, 26, 25, 0.706) ;
+position: relative;
+left: 740px;
+bottom: 490px;
+
+}
+
+.fow{
+    
+    position: relative;
+    left: 803px;
+    bottom: 390px;
+    font-size: 14px;
+    color: rgb(7, 50, 90);
+}
+span{
+    display: inline-flex;
+}
+ 
+.suz{
+    position: relative;
+    left: 830px;
+    bottom: 405px;
+    font-size: 25px;
+    color: rgb(0, 66, 157);
+}
+.Lon{
+position: relative;
+left: 837px;
+bottom: 325px;
+font-size: 15.3px;
+}
+.pro{
+    position: relative;
+left: 863px;
+bottom: 477px;
+font-size: 18px;
+color: rgb(68, 65, 61);
+}
+.time{
+    position: relative;
+    left: 765px;
+bottom: 655px;
+font-size: 15px;
+}
+
+.catimg{
+    position: relative;
+    left: 870px;
+    top: -300px;
+    width: 50px;
+    height: 50px;
+    border: 0px solid;
+    border-radius: 100%;
+}
+
+.ic {
+    position: relative;
+    left: 760px;
+    top: -775px;
+}
+.ic1{
+    position: relative;
+    left: 1002px;
+    top: 167px;
+}
+.ic2{
+    position: relative;
+    left: 974px;
+    top: 130px;
+    width: 7px;
+    height: 7px;
+}
+.ic3{
+    position: relative;
+    left: 950px;
+    top: 108px;
+    width: 7px;
+    height: 7px;
+}
+.ic4{
+    position: relative;
+    display: inline-flex;
+    margin-left: 15%;
+    bottom: -210px;
+    left: -16px;
+   
+}
+.ic5{
+    position: relative;
+    left: 120px;
+    top: -262px;
+}

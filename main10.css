@@ -1,6 +1,6 @@
 .wrap {
     position: relative;
-      padding: 0px 0px;
+     
       width: 260px;
       height: 30px;
       border: 0px solid;
@@ -14,9 +14,6 @@
     margin-left: 800px;
 }
 
-.login_form {
-    
-}
 
 h1{
   
